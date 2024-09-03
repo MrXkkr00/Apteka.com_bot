@@ -1,5 +1,5 @@
 
 IP = "localhost"  # Xosting ip manzili
-ADMINS = ["984568970","6975551943"]
-BOT_TOKEN = "6595775300:AAG9b3NAdPZZ_JZn3SeBlOrw1rWANtH99D0"
+ADMINS = ["",""]
+BOT_TOKEN = ""
 
